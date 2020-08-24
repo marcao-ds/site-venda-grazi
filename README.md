@@ -1,2 +1,2 @@
 # site-venda
- site desninado a venda de sapatos.
+Essa é minha primira criação. Destino a criação em site de vendas de sapatos.
