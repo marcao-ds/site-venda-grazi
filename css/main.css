@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.menu-principal {
+    width: 100%;
+    background-color: #000000; 
+    height:100px;
+}
+main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative; 
+}
+.logo {
+    padding: 22px;
+    width: 71%;
+    float: left;
+}
+.redes-sociais ul li {
+    display: inline-block;
+    width: 20%;
+    position: relative;
+    float: right;
+    list-style: none;
+    padding: 18px;
+    height: 70px;
+}
+.header-2 {
+    background-color: #17314e;
+    border-color: rgb(0, 104, 104) 3px solid;
+    width: 100%;
+    height: 80px;
+    margin: 4 auto;
+}
+.menu ul li {
+    display: inline-block;
+    color: rgb(141, 0, 0);
+    margin-left: 14px;
+}
+.menu ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: unset;
+    font-size: 26px;
+}
+
+.menu {
+    width: 46%;
+    float: left;
+}
+.busca {
+    width: 21%;
+    float: right;
+}
